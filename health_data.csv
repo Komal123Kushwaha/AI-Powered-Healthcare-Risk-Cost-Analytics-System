@@ -1,0 +1,201 @@
+Patient_ID,Name,Age,Gender,City,Disease,BP,Sugar_Level,Cholesterol,BMI,Visit_Date,Doctor,Hospital,Treatment_Cost
+1,Rohit,54,Female,Mumbai,Asthma,155,88,193,27.1,05-11-2025,Dr. Gupta,Apollo Clinic,11497
+2,Pooja,55,Female,Bhopal,Asthma,152,137,297,24.7,19-10-2025,Dr. Singh,Apollo Clinic,14279
+3,Sneha,41,Female,Delhi,Asthma,123,141,252,23.9,12-02-2026,Dr. Verma,City Hospital,8547
+4,Rohit,48,Male,Indore,Hypertension,160,156,190,27.9,03-01-2026,Dr. Verma,City Hospital,13414
+5,Ankit,57,Male,Mumbai,Hypertension,96,90,222,22,03-12-2025,Dr. Sharma,Apollo Clinic,7597
+6,Sneha,39,Male,Pune,Hypertension,148,142,285,29,29-06-2025,Dr. Verma,Care Hospital,3028
+7,Sneha,59,Male,Delhi,Diabetes,102,110,244,33.3,08-02-2026,Dr. Verma,City Hospital,4176
+8,Riya,35,Female,Pune,Heart Disease,155,194,151,28.7,26-04-2025,Dr. Sharma,Care Hospital,5452
+9,Kavita,35,Male,Delhi,Diabetes,109,169,168,31.9,01-01-2026,Dr. Sharma,AIIMS,16409
+10,Pooja,28,Female,Bhopal,Diabetes,146,73,253,21.2,15-08-2025,Dr. Gupta,Apollo Clinic,13485
+11,Rahul,60,Female,Indore,Heart Disease,136,108,269,28.1,19-07-2025,Dr. Sharma,Apollo Clinic,10007
+12,Ankit,67,Female,Pune,Asthma,124,181,191,27.6,23-01-2026,Dr. Singh,City Hospital,14369
+13,Amit,23,Female,Indore,Asthma,116,125,285,22.8,25-12-2025,Dr. Verma,AIIMS,5923
+14,Sneha,64,Male,Indore,Diabetes,134,134,298,30.5,16-12-2025,Dr. Gupta,Care Hospital,13792
+15,Amit,50,Male,Bhopal,Flu,135,145,206,19.4,27-03-2026,Dr. Singh,City Hospital,13711
+16,Kavita,63,Female,Indore,Diabetes,120,198,207,18.4,02-11-2025,Dr. Singh,AIIMS,12635
+17,Sneha,44,Male,Indore,Flu,107,105,268,31.1,01-05-2025,Dr. Verma,Care Hospital,8658
+18,Rahul,49,Female,Indore,Hypertension,127,131,188,27.6,28-10-2025,Dr. Singh,City Hospital,2033
+19,Neha,50,Female,Bhopal,Flu,142,181,219,22.4,24-10-2025,Dr. Singh,Apollo Clinic,15091
+20,Pooja,53,Female,Mumbai,Asthma,97,193,268,20,04-12-2025,Dr. Sharma,Care Hospital,11262
+21,Rohit,38,Male,Mumbai,Flu,154,151,263,33.2,16-06-2025,Dr. Sharma,Care Hospital,11242
+22,Rahul,37,Male,Indore,Diabetes,114,127,196,20.4,02-05-2025,Dr. Singh,City Hospital,19858
+23,Riya,45,Male,Indore,Asthma,100,186,270,34,05-05-2025,Dr. Gupta,AIIMS,18623
+24,Kavita,53,Female,Delhi,Heart Disease,151,109,271,27.5,03-07-2025,Dr. Sharma,AIIMS,3872
+25,Rohit,23,Female,Delhi,Heart Disease,129,149,247,31.2,13-09-2025,Dr. Singh,AIIMS,13806
+26,Rahul,48,Female,Delhi,Hypertension,154,94,229,19.3,29-03-2026,Dr. Gupta,City Hospital,8723
+27,Sneha,19,Male,Mumbai,Asthma,137,129,247,24.6,13-04-2026,Dr. Verma,Apollo Clinic,18059
+28,Sneha,60,Male,Indore,Hypertension,121,85,215,33.5,18-11-2025,Dr. Sharma,City Hospital,3533
+29,Rahul,51,Female,Pune,Asthma,127,185,281,30.1,16-09-2025,Dr. Gupta,City Hospital,7782
+30,Ankit,24,Female,Mumbai,Heart Disease,116,84,267,23.8,31-03-2026,Dr. Singh,Care Hospital,11595
+31,Kavita,58,Female,Mumbai,Heart Disease,106,133,221,21,07-02-2026,Dr. Sharma,Apollo Clinic,8193
+32,Neha,69,Female,Bhopal,Heart Disease,93,174,248,32,07-01-2026,Dr. Gupta,City Hospital,7894
+33,Riya,40,Female,Delhi,Diabetes,96,71,202,31.9,24-08-2025,Dr. Gupta,Apollo Clinic,3307
+34,Rohit,50,Female,Mumbai,Hypertension,137,92,155,20.5,15-09-2025,Dr. Gupta,AIIMS,12676
+35,Rahul,38,Female,Mumbai,Heart Disease,135,142,251,31.4,13-11-2025,Dr. Sharma,AIIMS,4281
+36,Rahul,45,Female,Indore,Flu,139,150,263,22,28-03-2026,Dr. Singh,AIIMS,10439
+37,Neha,47,Female,Pune,Flu,127,99,245,18.3,05-12-2025,Dr. Verma,AIIMS,9930
+38,Pooja,50,Male,Bhopal,Heart Disease,138,72,171,21.3,21-03-2026,Dr. Sharma,AIIMS,5183
+39,Ankit,28,Male,Delhi,Hypertension,145,164,252,28.8,19-07-2025,Dr. Gupta,AIIMS,18967
+40,Vikas,69,Female,Indore,Hypertension,120,190,258,26.3,29-03-2026,Dr. Sharma,AIIMS,1859
+41,Neha,27,Female,Delhi,Asthma,104,118,180,25.5,07-12-2025,Dr. Gupta,AIIMS,10109
+42,Rohit,69,Male,Indore,Asthma,159,78,238,31,29-01-2026,Dr. Singh,Apollo Clinic,2151
+43,Rahul,46,Female,Indore,Heart Disease,133,181,224,18.2,13-07-2025,Dr. Singh,City Hospital,8768
+44,Sneha,29,Female,Mumbai,Heart Disease,158,85,151,24.3,24-06-2025,Dr. Singh,Care Hospital,15677
+45,Ankit,22,Male,Indore,Flu,95,108,150,22.9,11-03-2026,Dr. Singh,City Hospital,14167
+46,Rahul,19,Female,Indore,Hypertension,151,199,172,34.7,27-12-2025,Dr. Singh,AIIMS,4452
+47,Pooja,43,Female,Indore,Asthma,108,76,279,24.8,25-02-2026,Dr. Singh,Apollo Clinic,6402
+48,Sneha,44,Male,Delhi,Heart Disease,157,155,205,21.3,24-06-2025,Dr. Gupta,City Hospital,17745
+49,Ankit,45,Female,Indore,Flu,132,182,225,26.5,02-07-2025,Dr. Sharma,AIIMS,4616
+50,Sneha,61,Male,Delhi,Heart Disease,131,99,253,25,03-06-2025,Dr. Singh,Apollo Clinic,19179
+51,Kavita,44,Male,Delhi,Hypertension,156,167,156,33.3,06-05-2025,Dr. Gupta,Apollo Clinic,16325
+52,Riya,33,Male,Mumbai,Asthma,160,196,153,33.1,27-08-2025,Dr. Verma,City Hospital,18708
+53,Sneha,53,Female,Delhi,Asthma,137,96,166,30,24-02-2026,Dr. Singh,City Hospital,1097
+54,Sneha,20,Male,Indore,Flu,134,135,280,33.1,30-10-2025,Dr. Singh,Care Hospital,14761
+55,Rohit,39,Male,Indore,Flu,107,91,200,26.3,04-11-2025,Dr. Singh,Care Hospital,6143
+56,Amit,60,Female,Pune,Heart Disease,97,123,265,30.7,22-08-2025,Dr. Sharma,City Hospital,13819
+57,Sneha,40,Male,Bhopal,Flu,94,198,215,25.6,04-03-2026,Dr. Verma,Care Hospital,6550
+58,Ankit,62,Female,Mumbai,Flu,131,167,276,18.3,17-04-2026,Dr. Sharma,Care Hospital,9540
+59,Rohit,32,Male,Mumbai,Asthma,102,75,176,31.2,22-02-2026,Dr. Verma,City Hospital,15098
+60,Kavita,68,Male,Bhopal,Heart Disease,123,74,288,21.1,20-06-2025,Dr. Gupta,Care Hospital,6793
+61,Neha,55,Male,Bhopal,Heart Disease,134,87,235,20.7,03-08-2025,Dr. Verma,AIIMS,14730
+62,Riya,27,Male,Indore,Diabetes,91,162,176,23.3,20-11-2025,Dr. Verma,Apollo Clinic,3909
+63,Neha,39,Female,Mumbai,Asthma,150,118,240,22.9,15-08-2025,Dr. Gupta,City Hospital,6916
+64,Vikas,52,Male,Pune,Flu,108,104,232,27.5,26-12-2025,Dr. Sharma,Care Hospital,7554
+65,Ankit,69,Female,Delhi,Diabetes,135,183,167,34.5,06-01-2026,Dr. Singh,AIIMS,4500
+66,Riya,61,Female,Pune,Heart Disease,139,105,207,28.6,24-01-2026,Dr. Verma,Care Hospital,19099
+67,Neha,55,Male,Delhi,Hypertension,115,105,189,25.6,26-06-2025,Dr. Singh,AIIMS,4556
+68,Vikas,26,Female,Delhi,Asthma,94,147,292,32.8,26-07-2025,Dr. Verma,City Hospital,17512
+69,Rohit,45,Female,Indore,Asthma,97,158,154,33.5,01-10-2025,Dr. Gupta,Apollo Clinic,1882
+70,Ankit,34,Female,Bhopal,Asthma,121,126,291,32.8,01-03-2026,Dr. Sharma,Apollo Clinic,3569
+71,Pooja,44,Male,Indore,Hypertension,107,82,231,30.4,26-04-2026,Dr. Verma,City Hospital,10615
+72,Riya,68,Male,Mumbai,Flu,102,72,154,28.9,10-11-2025,Dr. Verma,Care Hospital,12795
+73,Riya,22,Male,Bhopal,Asthma,115,94,184,22.5,10-11-2025,Dr. Singh,AIIMS,7648
+74,Amit,46,Male,Delhi,Flu,113,157,179,22.4,27-01-2026,Dr. Sharma,AIIMS,19745
+75,Pooja,21,Female,Mumbai,Asthma,140,178,251,23.6,26-03-2026,Dr. Sharma,AIIMS,4807
+76,Pooja,33,Female,Bhopal,Flu,155,128,234,31.2,28-09-2025,Dr. Gupta,Apollo Clinic,14776
+77,Pooja,41,Male,Indore,Diabetes,113,147,199,31.5,11-10-2025,Dr. Verma,Care Hospital,7221
+78,Amit,20,Female,Delhi,Flu,126,122,235,32,09-04-2026,Dr. Gupta,City Hospital,711
+79,Kavita,58,Female,Mumbai,Flu,125,163,199,26.3,09-02-2026,Dr. Gupta,Apollo Clinic,19957
+80,Rohit,64,Female,Bhopal,Flu,148,72,198,32.7,03-10-2025,Dr. Sharma,City Hospital,14253
+81,Pooja,57,Male,Indore,Diabetes,156,92,173,29.4,14-06-2025,Dr. Verma,City Hospital,932
+82,Ankit,33,Male,Indore,Asthma,90,162,238,32.9,13-10-2025,Dr. Sharma,City Hospital,19148
+83,Rohit,34,Female,Mumbai,Diabetes,95,176,242,19.5,17-11-2025,Dr. Singh,Apollo Clinic,3051
+84,Kavita,19,Female,Indore,Asthma,92,87,224,19.5,05-09-2025,Dr. Singh,Care Hospital,15535
+85,Sneha,45,Male,Indore,Diabetes,104,73,186,18.1,24-04-2026,Dr. Sharma,Care Hospital,16887
+86,Neha,36,Male,Pune,Asthma,140,153,156,25.3,09-01-2026,Dr. Gupta,AIIMS,5089
+87,Rahul,41,Female,Delhi,Asthma,132,101,159,29,24-11-2025,Dr. Singh,City Hospital,18754
+88,Riya,20,Female,Delhi,Flu,93,99,203,31.9,27-07-2025,Dr. Gupta,Care Hospital,8026
+89,Vikas,37,Male,Bhopal,Hypertension,126,137,225,22.7,26-05-2025,Dr. Verma,AIIMS,16113
+90,Pooja,27,Male,Delhi,Heart Disease,145,164,162,30.4,30-06-2025,Dr. Sharma,Apollo Clinic,19318
+91,Kavita,28,Male,Delhi,Hypertension,103,116,259,34.9,11-10-2025,Dr. Singh,Care Hospital,18548
+92,Rahul,25,Male,Indore,Hypertension,130,157,288,22.4,18-12-2025,Dr. Gupta,AIIMS,2624
+93,Rohit,30,Male,Bhopal,Heart Disease,104,185,154,28.5,16-08-2025,Dr. Gupta,AIIMS,2803
+94,Ankit,20,Female,Pune,Asthma,114,70,176,22.9,01-05-2025,Dr. Sharma,City Hospital,11356
+95,Vikas,56,Male,Indore,Diabetes,132,71,291,21.7,27-05-2025,Dr. Sharma,Care Hospital,14260
+96,Neha,22,Female,Bhopal,Hypertension,91,150,222,22.1,13-01-2026,Dr. Gupta,Care Hospital,17699
+97,Sneha,34,Female,Pune,Flu,151,141,292,26.2,05-02-2026,Dr. Verma,AIIMS,3157
+98,Ankit,68,Male,Pune,Diabetes,91,124,283,22.4,09-08-2025,Dr. Sharma,City Hospital,3940
+99,Rahul,59,Male,Delhi,Diabetes,144,99,165,30.3,26-02-2026,Dr. Gupta,AIIMS,7592
+100,Neha,65,Male,Pune,Diabetes,94,146,229,32.7,10-10-2025,Dr. Verma,AIIMS,19749
+101,Rahul,19,Male,Delhi,Heart Disease,112,84,285,26.7,08-10-2025,Dr. Gupta,AIIMS,935
+102,Sneha,64,Female,Indore,Hypertension,92,116,292,24.8,12-11-2025,Dr. Gupta,Care Hospital,6670
+103,Ankit,19,Female,Mumbai,Flu,97,171,214,31.2,03-12-2025,Dr. Verma,Care Hospital,18144
+104,Sneha,43,Male,Pune,Hypertension,99,173,171,30.4,18-11-2025,Dr. Gupta,AIIMS,1299
+105,Neha,36,Female,Pune,Hypertension,118,187,214,34.3,11-11-2025,Dr. Gupta,Care Hospital,13828
+106,Neha,67,Female,Mumbai,Hypertension,144,133,280,27,10-07-2025,Dr. Gupta,Apollo Clinic,14443
+107,Ankit,40,Male,Pune,Hypertension,143,166,218,32,18-02-2026,Dr. Singh,City Hospital,14375
+108,Pooja,53,Female,Pune,Diabetes,91,74,154,23.4,18-07-2025,Dr. Verma,Care Hospital,12694
+109,Vikas,64,Male,Delhi,Flu,98,198,259,33.9,21-06-2025,Dr. Gupta,Apollo Clinic,2880
+110,Sneha,67,Male,Indore,Flu,157,102,240,25.5,13-07-2025,Dr. Singh,Apollo Clinic,12008
+111,Vikas,31,Female,Mumbai,Hypertension,106,178,231,29.5,15-08-2025,Dr. Sharma,City Hospital,2519
+112,Ankit,37,Male,Mumbai,Flu,146,70,167,24.7,10-08-2025,Dr. Verma,AIIMS,10884
+113,Amit,64,Male,Pune,Heart Disease,98,128,234,18.2,04-12-2025,Dr. Singh,Apollo Clinic,16211
+114,Kavita,60,Female,Delhi,Hypertension,104,186,250,31.5,24-03-2026,Dr. Verma,Care Hospital,8262
+115,Vikas,18,Female,Delhi,Heart Disease,144,148,167,28.2,28-04-2025,Dr. Sharma,City Hospital,8579
+116,Vikas,59,Male,Pune,Heart Disease,96,141,226,34.3,08-05-2025,Dr. Singh,AIIMS,8042
+117,Riya,55,Female,Delhi,Hypertension,136,73,260,24,16-01-2026,Dr. Gupta,AIIMS,7499
+118,Amit,44,Male,Mumbai,Flu,94,174,220,22.1,18-10-2025,Dr. Verma,Apollo Clinic,3967
+119,Pooja,26,Female,Pune,Heart Disease,91,139,299,20.1,29-06-2025,Dr. Sharma,Care Hospital,8971
+120,Kavita,30,Male,Bhopal,Flu,94,142,198,18.1,13-06-2025,Dr. Verma,Care Hospital,13975
+121,Ankit,26,Male,Delhi,Hypertension,108,159,272,30.6,08-01-2026,Dr. Verma,AIIMS,16030
+122,Rahul,50,Female,Delhi,Flu,123,160,271,24.9,25-02-2026,Dr. Singh,Care Hospital,11411
+123,Ankit,52,Male,Bhopal,Asthma,138,117,235,24.8,04-10-2025,Dr. Singh,Care Hospital,15201
+124,Amit,34,Female,Mumbai,Hypertension,154,152,210,21.9,30-03-2026,Dr. Singh,Care Hospital,17935
+125,Neha,60,Female,Bhopal,Asthma,109,76,229,33,30-08-2025,Dr. Singh,Apollo Clinic,932
+126,Rahul,45,Female,Mumbai,Hypertension,91,163,273,29.2,28-04-2025,Dr. Singh,Apollo Clinic,1541
+127,Ankit,35,Female,Indore,Heart Disease,159,147,241,33.2,06-08-2025,Dr. Sharma,AIIMS,5539
+128,Amit,35,Female,Pune,Asthma,146,128,163,27,16-06-2025,Dr. Verma,Care Hospital,14606
+129,Rohit,66,Female,Mumbai,Flu,110,120,273,19,04-06-2025,Dr. Singh,Care Hospital,14650
+130,Sneha,49,Male,Delhi,Flu,136,128,173,20,07-06-2025,Dr. Sharma,Care Hospital,7660
+131,Ankit,47,Female,Mumbai,Asthma,114,165,184,28.1,14-02-2026,Dr. Singh,Apollo Clinic,1122
+132,Pooja,58,Male,Delhi,Asthma,128,128,276,25.6,18-06-2025,Dr. Sharma,Care Hospital,16360
+133,Rohit,31,Male,Bhopal,Heart Disease,134,111,298,21,23-07-2025,Dr. Singh,AIIMS,10236
+134,Riya,25,Male,Pune,Asthma,144,88,204,30.3,20-01-2026,Dr. Verma,Care Hospital,16233
+135,Kavita,20,Male,Pune,Heart Disease,151,129,288,18.4,02-08-2025,Dr. Singh,Care Hospital,10651
+136,Pooja,27,Female,Pune,Heart Disease,93,113,226,26.9,01-12-2025,Dr. Gupta,AIIMS,9779
+137,Sneha,31,Male,Bhopal,Flu,145,116,280,22.7,24-01-2026,Dr. Gupta,AIIMS,15151
+138,Amit,24,Female,Bhopal,Heart Disease,110,199,202,20.2,26-12-2025,Dr. Gupta,AIIMS,5988
+139,Amit,38,Male,Bhopal,Hypertension,160,107,231,18.4,26-04-2025,Dr. Verma,Apollo Clinic,13752
+140,Sneha,26,Male,Pune,Flu,110,104,154,25.4,22-02-2026,Dr. Gupta,Apollo Clinic,5108
+141,Neha,58,Male,Mumbai,Asthma,153,132,292,33.7,12-09-2025,Dr. Gupta,Apollo Clinic,2184
+142,Vikas,63,Female,Delhi,Diabetes,97,132,237,28.8,01-04-2026,Dr. Gupta,Care Hospital,3680
+143,Ankit,57,Male,Mumbai,Heart Disease,154,200,201,24.4,06-03-2026,Dr. Singh,Care Hospital,11652
+144,Sneha,23,Female,Pune,Heart Disease,150,167,257,34.3,25-05-2025,Dr. Verma,Care Hospital,16011
+145,Amit,65,Male,Indore,Flu,120,96,257,26.7,23-11-2025,Dr. Sharma,Apollo Clinic,16145
+146,Pooja,50,Female,Pune,Hypertension,138,176,193,21.1,10-02-2026,Dr. Sharma,Care Hospital,4904
+147,Kavita,48,Male,Indore,Diabetes,119,83,240,20.8,21-06-2025,Dr. Singh,AIIMS,15516
+148,Riya,23,Female,Bhopal,Flu,111,110,154,26.2,17-02-2026,Dr. Sharma,Care Hospital,12700
+149,Rohit,32,Male,Indore,Heart Disease,107,169,253,33.2,22-08-2025,Dr. Gupta,Care Hospital,14857
+150,Rohit,19,Male,Mumbai,Heart Disease,115,79,281,22.2,07-06-2025,Dr. Verma,Care Hospital,6437
+151,Neha,52,Female,Pune,Asthma,106,199,221,34.3,17-07-2025,Dr. Singh,Care Hospital,8262
+152,Ankit,38,Male,Bhopal,Diabetes,146,104,294,20.3,28-10-2025,Dr. Singh,Care Hospital,1532
+153,Rahul,21,Female,Bhopal,Diabetes,125,80,251,25.6,15-12-2025,Dr. Sharma,Apollo Clinic,13900
+154,Pooja,32,Female,Delhi,Asthma,113,105,160,33.2,03-05-2025,Dr. Sharma,Apollo Clinic,14793
+155,Rahul,34,Female,Bhopal,Diabetes,95,148,212,26.8,25-11-2025,Dr. Singh,Care Hospital,19915
+156,Neha,59,Female,Bhopal,Heart Disease,143,125,190,18,22-02-2026,Dr. Gupta,AIIMS,7837
+157,Kavita,29,Female,Mumbai,Flu,160,110,251,18.1,16-05-2025,Dr. Gupta,Apollo Clinic,8018
+158,Sneha,27,Female,Delhi,Asthma,128,157,198,20.5,22-10-2025,Dr. Gupta,AIIMS,13364
+159,Neha,18,Male,Indore,Diabetes,92,197,161,28.4,10-04-2026,Dr. Verma,City Hospital,9144
+160,Rohit,49,Male,Mumbai,Asthma,94,153,208,20.4,02-06-2025,Dr. Verma,AIIMS,10364
+161,Amit,27,Male,Bhopal,Asthma,120,114,204,29.4,07-07-2025,Dr. Singh,Care Hospital,13943
+162,Sneha,63,Female,Delhi,Hypertension,95,111,258,24,04-04-2026,Dr. Sharma,AIIMS,14476
+163,Ankit,56,Male,Delhi,Hypertension,132,188,236,34.8,17-07-2025,Dr. Verma,Apollo Clinic,663
+164,Neha,65,Female,Mumbai,Diabetes,149,180,197,21.8,06-02-2026,Dr. Sharma,AIIMS,16182
+165,Pooja,53,Male,Delhi,Flu,151,157,163,25.8,03-05-2025,Dr. Sharma,Apollo Clinic,14344
+166,Riya,70,Female,Indore,Asthma,159,97,162,27.5,20-04-2026,Dr. Sharma,City Hospital,14012
+167,Amit,24,Female,Mumbai,Heart Disease,110,125,273,21.8,29-03-2026,Dr. Singh,Apollo Clinic,19107
+168,Sneha,67,Male,Bhopal,Asthma,145,129,179,28.7,04-07-2025,Dr. Verma,AIIMS,4847
+169,Rohit,54,Female,Delhi,Asthma,90,91,206,22.9,27-12-2025,Dr. Sharma,Apollo Clinic,10146
+170,Pooja,43,Male,Pune,Asthma,159,136,171,24.8,26-08-2025,Dr. Sharma,Care Hospital,4385
+171,Riya,28,Male,Delhi,Asthma,113,110,281,29,17-01-2026,Dr. Verma,City Hospital,18497
+172,Rahul,19,Female,Mumbai,Diabetes,136,88,173,31.4,20-11-2025,Dr. Singh,Care Hospital,17949
+173,Riya,30,Female,Delhi,Heart Disease,147,73,249,20.2,27-09-2025,Dr. Sharma,AIIMS,11489
+174,Vikas,24,Male,Delhi,Heart Disease,124,100,264,18.9,09-11-2025,Dr. Singh,Care Hospital,13761
+175,Rahul,69,Female,Pune,Hypertension,133,107,271,34.7,29-01-2026,Dr. Sharma,Care Hospital,11368
+176,Neha,65,Male,Delhi,Flu,112,75,260,22.8,18-11-2025,Dr. Singh,Apollo Clinic,12935
+177,Rohit,51,Male,Indore,Flu,137,114,210,31.3,28-08-2025,Dr. Verma,AIIMS,6817
+178,Ankit,48,Female,Delhi,Flu,135,90,292,22.8,25-12-2025,Dr. Verma,Apollo Clinic,10960
+179,Riya,25,Female,Mumbai,Hypertension,144,129,223,22.2,15-01-2026,Dr. Singh,City Hospital,2670
+180,Sneha,67,Male,Mumbai,Heart Disease,98,104,275,32.6,14-04-2026,Dr. Sharma,Apollo Clinic,17561
+181,Rohit,61,Male,Bhopal,Hypertension,134,190,180,31.1,29-11-2025,Dr. Sharma,City Hospital,17062
+182,Vikas,39,Male,Pune,Flu,137,74,215,20.2,12-05-2025,Dr. Singh,AIIMS,8819
+183,Neha,40,Female,Indore,Asthma,136,189,154,34.9,17-02-2026,Dr. Singh,Apollo Clinic,11713
+184,Kavita,35,Male,Delhi,Diabetes,118,162,281,21,17-08-2025,Dr. Singh,Apollo Clinic,19423
+185,Vikas,58,Female,Bhopal,Hypertension,130,153,159,27.7,18-05-2025,Dr. Sharma,Care Hospital,8880
+186,Riya,67,Female,Bhopal,Heart Disease,123,138,249,33.5,09-08-2025,Dr. Sharma,Apollo Clinic,4124
+187,Ankit,53,Female,Indore,Heart Disease,143,103,192,19.9,14-02-2026,Dr. Sharma,AIIMS,2301
+188,Rohit,26,Male,Mumbai,Heart Disease,116,93,223,20.2,20-08-2025,Dr. Verma,AIIMS,3753
+189,Riya,38,Male,Bhopal,Flu,100,127,259,32.8,31-08-2025,Dr. Sharma,Apollo Clinic,15527
+190,Sneha,46,Male,Mumbai,Heart Disease,103,159,278,19.5,22-03-2026,Dr. Verma,Care Hospital,6206
+191,Neha,40,Male,Pune,Heart Disease,134,109,245,18.3,16-07-2025,Dr. Gupta,Care Hospital,19837
+192,Vikas,65,Male,Delhi,Heart Disease,91,180,210,22.5,02-08-2025,Dr. Gupta,City Hospital,4519
+193,Sneha,23,Male,Bhopal,Flu,149,120,255,19.9,15-05-2025,Dr. Singh,Apollo Clinic,6298
+194,Sneha,30,Male,Pune,Heart Disease,138,101,292,19.3,10-02-2026,Dr. Singh,City Hospital,19571
+195,Neha,64,Male,Pune,Hypertension,120,75,300,32.6,02-03-2026,Dr. Singh,Apollo Clinic,12577
+196,Pooja,23,Female,Delhi,Flu,92,150,168,29.2,10-08-2025,Dr. Gupta,Apollo Clinic,17206
+197,Neha,18,Female,Mumbai,Diabetes,144,197,185,33,09-10-2025,Dr. Sharma,Care Hospital,15341
+198,Riya,69,Male,Indore,Flu,141,161,199,23.8,20-09-2025,Dr. Singh,Apollo Clinic,17714
+199,Riya,31,Male,Pune,Diabetes,102,159,267,19.1,12-02-2026,Dr. Gupta,City Hospital,8949
+200,Ankit,67,Female,Pune,Hypertension,121,197,221,20.4,15-06-2025,Dr. Sharma,City Hospital,19037
